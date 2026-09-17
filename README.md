@@ -24,8 +24,8 @@ VitalSync is an enterprise-grade Electronic Health Record (EHR) dashboard design
 - [ ] **Appointment Scheduling:** Book, update status (Scheduled, In-Progress, Completed, Canceled), and assign appointments to doctors.
 
 ### Phase 2: Core Platform Features (Priority 1)
-- [ ] **Figma UI/UX Design System:**
-  - Public Link: `[Insert Figma Link Here]`
+- [x] **Figma UI/UX Design System:**
+  - Public Link: [VitalSync Figma Wireframes](https://www.figma.com/design/5ILOD4JFm6xsOacWrFtLyg/VitalSync-Wireframes?node-id=0-1&t=2QRbo4aLohTgfALx-1)
   - Core Viewports: Auth Screen, Clinical Dashboard, Patient Details/EHR View.
 - [ ] **EHR Medical History & Lab Reports:** Upload and attach lab results and medical notes to specific patient records.
 - [ ] **Search & Filtering:** Dynamic client/server-side search by Patient ID, Name, or Medical Condition.
